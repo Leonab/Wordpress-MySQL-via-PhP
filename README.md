@@ -2,7 +2,7 @@
 
 ### A simple PhP plugin to store data into a MySQL database at Wordpress. ###
 
-`
+```
 <?php
 error_reporting(-1);
 //  error_reporting( E_CORE_ERROR | E_CORE_WARNING | E_COMPILE_ERROR | E_ERROR | E_WARNING | E_PARSE | E_USER_ERROR | E_USER_WARNING | E_RECOVERABLE_ERROR );
@@ -42,4 +42,4 @@ else
 	echo "Some error occured";
 
 ?>
-`
+```
