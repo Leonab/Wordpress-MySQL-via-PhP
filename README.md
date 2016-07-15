@@ -1,6 +1,7 @@
 # Wordpress Plugin #
 
 ### A simple PhP plugin to store data into a MySQL database at Wordpress. ###
+- - - -
 
 ```
 <?php
